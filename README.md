@@ -26,7 +26,7 @@ Wait till PlayCover will convert app and launch it.
 | Add button | Ctrl + N |
 | Add joystick | Ctrl + J  |
 | Add mouse area  | Ctrl + M |
-| Delete button | Click on existing button, and then press |
+| Delete button | Click on existing button, and then press　Ctrl + Delete(backspace) |
 | Increase Button Size press | Ctrl + '+' |
 | Increase Button Size press | Ctrl + '-' |
 
