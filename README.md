@@ -19,15 +19,30 @@ Wait till PlayCover will convert app and launch it.
 
 # How to create key mapping
 
-Press Ctrl + P to open editor mode.
+## KeyMapping
+| Action | Key |
+| - | - |
+| Editor mode change  | Ctrl + P<br>（After edit, just press Ctrl + P again to save results.） |
+| Add button | Ctrl + N |
+| Add joystick | Ctrl + J  |
+| Add mouse area  | Ctrl + M |
+| Delete button | Click on existing button, and then press |
+| Increase Button Size press | Ctrl + '+' |
+| Increase Button Size press | Ctrl + '-' |
 
-Now you can use Ctrl + N to add button, Ctrl + J - joystick, Ctrl + M - mouse.
 
-To delete a key, click on existing button, and then press Ctrl + Del.
+## Macros
+| Action | Key |
+| - | - |
+| Start Recording | Ctrl + U |
+| Stop Recording | Ctrl + I |
+| Replay Recording | Ctrl + O  |
 
-After edit, just press Ctrl + P again to save results.
-
-You can hold Alt during game to stop mouse camera control.
+## Miscellaneous
+| Action | Key |
+| - | - |
+| Adjust resolution | Ctrl + F |
+| During game to stop mouse camera control | Alt(option) |
 
 # Showcase
 
